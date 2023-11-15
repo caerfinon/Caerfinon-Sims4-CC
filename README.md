@@ -2,7 +2,7 @@
 Custom Content creations made/assembled by Caerfinon
 
 All images conform to 
-> "Titles rated *T – Teen* have content that may be suitable for persons ages 13 and older. Titles in this category may contain violent content, mild or strong language and/or suggestive themes."
+> "Titles rated **T – Teen** have content that may be suitable for persons ages 13 and older. Titles in this category may contain violent content, mild or strong language and/or suggestive themes."
 
 
 ### Detectives and Dames
