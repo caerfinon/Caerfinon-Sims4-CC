@@ -5,7 +5,7 @@ All images conform to
 > "Titles rated *T – Teen* have content that may be suitable for persons ages 13 and older. Titles in this category may contain violent content, mild or strong language and/or suggestive themes."
 
 
-### Detective and Dames
+### Detectives and Dames
 Photo realistic film noir style images created using Playground AI. Configured as large wall decorations for Sims4 
 
 ### Pulp Novel Cover Art
